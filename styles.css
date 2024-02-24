@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo-header{
+    max-width:100px;
+    max-height:100px;
+    width: auto;
+    height: auto;
+    margin: -3px 0px 100px 50px;
+}
+
+.menu{
+    background-color: #F6E6DA;
+    height: 12vh;
+    
+}
+
+header{
+    font-size: 15px;
+    margin: -160px 0px 144px 800px;
+    cursor: pointer;
+}
+
+a{
+    margin: 30px;
+    text-decoration: none;
+    color: #C24B59 ;
+}
+
+.quem-somos{
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 15px;
+}
+
+.img-banner{
+    width: 100%;
+    height: auto; 
+}
